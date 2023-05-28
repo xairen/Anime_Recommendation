@@ -1,2 +1,2 @@
-# Anime_Recommendation
+# Anime Recommendation System
 anime recommendation ML model
