@@ -1,2 +1,4 @@
 # Anime Recommendation System
-anime recommendation ML model
+Personal Project - 
+
+Building an anime recommendation model that provides suggestion similar to the anime that the user has seen.
